@@ -13,3 +13,4 @@ A User can add Cash Cards and should be able to view their cards only
 - Used InMemory H2 Database, for simplicity.
 - Used Spring Data JPA for ease of development.
 - Implemented **Basic Authentication** for security, for simplicity.
+- Unit tested with JUnit
